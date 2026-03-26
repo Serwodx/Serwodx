@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola, Me chamo Gabriel👋
 
 # 📟 Terminal de Gabriel Pagliarini (Serwod)
 > **Estudante de Cibersegurança & Redes | Desenvolvedor Full Stack | Entusiasta de Hardware**
@@ -23,33 +23,20 @@
 
     💻 Dev: Criando aplicações Full Stack modernas.
 
-    🔧 Hardware: Revivendo máquinas antigas (como o meu MacBook-Scanner!).
+    🔧 Hardware: Revivendo máquinas antigas (como o meu PC-Scanner!).
 
-📊 Estatísticas do GitHub
+🤝 Contato
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSerwodx%26show_icons%3Dtrue%26theme%3Dgruvbox%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do Serwod" />
-</p>
+Gabriel Pagliarini (Serwod).
 
+    📧 Email: gabriel.pagliarini14@gmail.com
 
-
-
+    💼 LinkedIn: Gabriel Pagliarini
 
 
+- ⚡ "Fun Fact: O meu primeiro 'setup' nasceu do lixo (literalmente)."
 
+Aos 13 anos, enquanto muitos ganhavam PCs novos, eu decidi montar o meu próprio usando peças de sucata que recuperei e limpei. Foi ali, entre capacitores velhos e gabinetes amarelados, que aprendi a minha primeira grande lição de TI: nada é lixo se você tiver o driver certo e um pouco de paciência. >
+Essa paixão por dar vida nova ao hardware me acompanha até hoje — seja transformando um scanner antigo em gabinete para Meu pc, ou explorando as camadas de segurança de sistemas modernos.
 
-
-<!--
-**Serwodx/Serwodx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
