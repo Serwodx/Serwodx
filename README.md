@@ -3,7 +3,7 @@
 # 📟 Terminal de Gabriel Pagliarini (Serwod)
 > **Estudante de Cibersegurança & Redes | Desenvolvedor Full Stack | Entusiasta de Hardware**
 
-
+```text
   _________________________________________
  / Olá! Sou o Gabriel, um explorador de    \
  | sistemas que acredita que hardware      |
@@ -15,6 +15,8 @@
                  ||----w |
                  ||     ||
 
+```
+---
 
 ## 🚀 Atualmente focado em:
 
